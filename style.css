@@ -1,0 +1,102 @@
+body {
+  background: #fff;
+  font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+  font-size: 11px;
+  margin: 0px;
+  padding: 0px;
+  text-align: left; }
+
+h1, h2, h3, h4, h5 {
+  font-size: 13px;
+  color: #333;
+  margin: 0px;
+  padding: 0px; }
+
+h1 {
+  font-size: 14px; }
+
+h4, h5 {
+  font-size: 11px;
+  color: #666;
+  margin-bottom: 10px;
+  }
+
+p {
+  font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+  font-size: 11px;
+  text-align: left; }
+
+a {
+  color: #3b5998;
+  text-decoration: none; }
+
+a:hover {
+  text-decoration: underline; }
+
+img {
+  border: 0px; }
+
+select {
+  border:1px solid #BDC7D8;
+  font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+  font-size:11px;
+  padding:2px;
+}
+
+
+td,
+td.label {
+  font-size: 11px;
+  text-align: left;
+}
+
+#header {
+	height: 80px;
+	background: #ff9900 url("images/header.gif") no-repeat;
+	margin-bottom: 10px;
+	color: white;
+}
+#header #logininfo {
+	text-align: right;
+	width: 200px;
+	float: right;
+	padding: 10px 10px 0 0;
+}
+#header #buttonpadder {
+	padding: 17px 17px 0 0;
+}
+#header #logininfo td {
+	text-align: right;
+}
+#header a {
+	color: white;
+	text-decoration: underline;
+}
+.thumbnail {
+	width: 90px; height: 130px;
+	float: left;
+	text-align: center;
+	border: 1px solid #666;
+	padding-top: 7px;
+	margin: 5px;
+	overflow: hidden;
+	background-color: #eee;
+}
+.thumbnail .thumb {
+	height: 115px;
+}
+#galleryholder {
+	height: 156px;
+	overflow: auto;
+	border: 1px solid #666;
+	width: 450px;
+	float: left;
+}
+#adholder {
+	height: 156px;
+	width: 306px;
+	float: left;
+}
+#backlink {
+	margin: 4px 0;
+}
