@@ -15,6 +15,11 @@ Apparently, there was a squirrel that jumped in front of someone's camera
 this one time, and the Internet thought it was funny for 15 minutes, so we
 rode that fad a little with this app.
 
+Screenshot
+==
+
+![Squirrelify Screenshot](https://github.com/tlhunter/facebook-squirrelify/raw/master/screenshot.png)
+
 License
 ==
 
